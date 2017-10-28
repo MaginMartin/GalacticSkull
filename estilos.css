@@ -1,0 +1,35 @@
+
+body{
+    background-color: #2971cb;
+}
+#canvas{
+        margin-top: 150px;
+        margin-left: 25%;
+        margin-right: 25%;
+         
+}
+#recuadro{
+        width: 650px;
+        height: 450px;
+        background-color: black; 
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+        margin-top: 135px;
+        margin-left: 23.6%;
+        margin-right: 25%;
+}
+
+#titulo{
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: -2;
+        width: 600px;
+        height: 130px;
+        /*background-color: grey;*/
+         margin-left: 25%;
+        margin-right: 25%;
+        background-image: url("./img/titulo.png");
+}
